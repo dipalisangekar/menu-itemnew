@@ -1,0 +1,72 @@
+/* body{
+            background-image: url(assets/developer.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+        } */
+        @import url('https://fonts.googleapis.com/css2?family=Itim&family=Roboto&family=Signika+Negative:wght@300..700&family=Signika:wght@300..700&display=swap');
+     #main-section{
+        width: 370px;
+        border: 1px solid gray;
+        border-radius: 12px;
+        margin:20px auto;
+        
+     }
+     #item-photo img{
+        width: 350px;
+        height: 300px;
+        border: 1px solid black;
+        border-radius: 15px; 
+        margin: 8px; 
+        position: relative;
+     }
+     #best-seller{
+            color: rgb(195, 203, 203);
+            font-weight: bolder;
+            background-color: navy;
+            padding: 3px 5px 3px 5px;
+            border-radius: 8px;
+            border: 1px solid rgb(42, 137, 4);
+            position: absolute;
+            top: 40px;
+            left: 620px;
+        }
+        #Must-try{
+            color: rgb(218, 225, 225);
+            font-weight: bolder;
+            background-color: navy;
+            padding: 3px 5px 3px 5px;
+            border-radius: 8px;
+            border: 1px solid rgb(42, 137, 4);
+             position: relative; 
+            /* top: 40px; */
+            bottom: 50px;
+            right: 40px;
+
+        }
+        #must{
+            text-align: right;
+        }
+     #menu-name h2{
+        text-align: center;
+        font-weight: bolder;
+        font-size: larger;
+        margin-bottom: 0px;
+        text-decoration: underline;
+        color: blue;
+        font-family: "Signika Negative", sans-serif;
+        /* font-style: italic; */
+        padding-bottom: 20px;
+     }
+     #menu-name p{
+        margin-left:5px;
+        margin-top: 0px;
+        font-family: "Signika Negative", sans-serif; */
+        padding-bottom: 20px;
+         }
+         #burger{
+            display: inline;
+            padding-left: 80px;
+    
+         }
+         
+    </style>
